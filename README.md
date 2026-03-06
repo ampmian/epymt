@@ -14,6 +14,12 @@ Then, each time you want to preview the website, run:
 npm run dev
 ```
 
+After that, run to build 
+```bash
+npm run build
+pm2 restart epymt
+```
+
 Remarks: the terminal should be in the root directory of the project, where the `package.json` file is located.
 
 ## Quick Guide
