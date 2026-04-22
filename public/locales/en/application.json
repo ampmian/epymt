@@ -24,6 +24,6 @@
       "title": "Details",
       "description": "All first-time applicants must attend the admission screening test on <0>{{admissionDate}}</0>. Failing to do so will be considered as withdrawing from the application."
     },
-    "details": "The screening test is a take-home exam that assesses whether an applicant has acquired sufficient background knowledge to take EPYMT courses. The question paper will be sent to applicants at <0>10:00 on 1 May 2026 (Friday)</0> by email. Answers should be scanned, combined into a single PDF file, and submitted to the link provided in the email before <0>17:00 on 4 May 2026 (Monday)</0>. Late submissions may not be considered."
+    "details": "The screening test is a take-home exam that assesses whether an applicant has acquired sufficient background knowledge to take EPYMT courses. The question paper will be sent to applicants at <0>10:00 on 1 May 2026 (Friday)</0> by email. Answers should be scanned, combined into a single PDF file, and submitted to the link provided in the email before <0>23:59 on 5 May 2026 (Tuesday)</0>. Late submissions may not be considered."
   }
 }
